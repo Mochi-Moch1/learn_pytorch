@@ -1,3 +1,3 @@
 # learn_pytorch
 
-This is the record of learning pytorch.
+This is the record of learning Pytorch.
